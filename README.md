@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dhuparsankalp@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/AXuAw7Wy8](https://resume.io/r/AXuAw7Wy8)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_pv3qHTzvpSZOrPVCPYS_5tb3v6HDw63/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
