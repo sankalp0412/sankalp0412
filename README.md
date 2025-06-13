@@ -3,8 +3,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **Node,SQL,C++**
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhuparsankalp?theme=forest&font=Signika)
 
 - 📫 How to reach me **dhuparsankalp@gmail.com**
 
