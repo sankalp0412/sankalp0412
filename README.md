@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpapercave.com/wp/wp4048622.png)](https://sankalp0412.io)
 <h1 align="center">Hi 👋, I'm Sankalp Dhupar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dhuparsankalp?theme=forest&font=Signika" alt="LeetCode Stats" />
