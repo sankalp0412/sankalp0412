@@ -7,7 +7,7 @@
 </p>
 
 - 📫 How to reach me: **dhuparsankalp@gmail.com**  
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1uPFmChNLRn_aFTmpBcgAP4MByrwycxoy/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1BFkZnKFN7JHtr2Rhxu8usv-YdbE38inZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
